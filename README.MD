@@ -9,8 +9,8 @@ Criar uma aplicação capaz de identificar a bandeira de um cartão de crédito 
 
 ## 🚀 Tecnologias Utilizadas
 
-- Linguagem: _[Personalize aqui: ex. JavaScript, Python, etc.]_
-- Ferramentas: _[Personalize aqui: ex. Node.js, React, etc.]_
+- Linguagem: JavaScript, Python, C#
+- Ferramentas: Copilot
 - Auxílio: GitHub Copilot
 
 ## 🛠️ Como Funciona
