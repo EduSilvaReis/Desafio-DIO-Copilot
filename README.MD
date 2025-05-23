@@ -23,7 +23,7 @@ Criar uma aplicação capaz de identificar a bandeira de um cartão de crédito 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/EduSilvaReis/Desafio-DIO-Copilot
 
 
 > _Desafio realizado com apoio do GitHub Copilot e da DIO._
